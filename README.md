@@ -7,13 +7,13 @@
 ###
 
 <p align="left">
-I'm a Grade 12 ICT student currently finishing my last few months of senior high. I'll be taking Computer Science in college because I’m dead set on becoming a Software Engineer. I'm using this GitHub to document my journey and keep my projects organized.
+I'm a Grade 12 ICT student currently completing senior high and preparing to pursue Computer Science in college. I’m focused on becoming a Software Engineer by building a strong foundation in programming, problem-solving, and clean code. This GitHub documents my learning journey and the projects I build along the way.
 </p>
 
 <ul>
-  <li>🎓 <strong>Next step:</strong> Incoming CS Freshman</li>
-  <li>💻 <strong>Current grind:</strong> Improving my coding logic and basics</li>
-  <li>🚀 <strong>Goal:</strong> Build high-quality software in the future</li>
+  <li>🎓 <strong>Next step:</strong> Incoming Computer Science freshman</li>
+  <li>💻 <strong>Current grind:</strong> Strengthening coding logic and fundamentals</li>
+  <li>🚀 <strong>Goal:</strong> Build reliable, high-quality software that solves real problems</li>
 </ul>
 
 ###
@@ -37,3 +37,4 @@ I'm a Grade 12 ICT student currently finishing my last few months of senior high
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo" />
 </div>
+
