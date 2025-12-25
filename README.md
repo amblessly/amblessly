@@ -7,13 +7,13 @@
 ###
 
 <p align="left">
-I'm a Grade 12 ICT student currently finishing my last few months of senior high. I'll be taking Computer Science in college because I want to become a Software Engineer. I use this GitHub to keep my projects organized and to track what I’m learning along the way.
+I'm a Grade 12 ICT student currently in my final months of senior high school. I plan to take Computer Science in college because I really want to become a Software Engineer. I use this GitHub to keep my projects organized and to track my progress as I continue learning and improving my coding skills.
 </p>
 
 <ul>
   <li>🎓 <strong>Next step:</strong> Incoming CS freshman</li>
-  <li>💻 <strong>Current grind:</strong> Improving my coding logic and basics</li>
-  <li>🚀 <strong>Goal:</strong> Build good software and keep getting better at coding</li>
+  <li>💻 <strong>Current grind:</strong> Improving my coding logic and strengthening the basics</li>
+  <li>🚀 <strong>Goal:</strong> Build high-quality software and grow as a developer over time</li>
 </ul>
 
 ###
