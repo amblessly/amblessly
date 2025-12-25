@@ -23,6 +23,8 @@ I use this GitHub to document my learning journey, keep my projects organized, a
 <h2 align="left">Skills</h2>
 
 ###
+###
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo" />
