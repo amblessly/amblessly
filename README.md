@@ -11,9 +11,9 @@ I'm a Grade 12 ICT student currently finishing my last few months of senior high
 </p>
 
 <ul>
-  <li>🎓 <strong>Next step:</strong> Incoming CS Freshman</li>
-  <li>💻 <strong>Current grind:</strong> Improving my coding logic and basics</li>
-  <li>🚀 <strong>Goal:</strong> Build high-quality software in the future</li>
+  <li><strong>Next step:</strong> Incoming CS Freshman</li>
+  <li><strong>Current grind:</strong> Improving my coding logic and basics</li>
+  <li><strong>Goal:</strong> Build high-quality software in the future</li>
 </ul>
 
 ###
