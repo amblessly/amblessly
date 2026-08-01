@@ -61,8 +61,6 @@ GitHub serves as my portfolio and learning journal, where I document my projects
 
 <h2 align="left">Let's Connect</h2>
 
-<h2 align="left">Let's Connect</h2>
-
 <div align="left">
   <a href="mailto:luisonblessly@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
