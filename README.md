@@ -4,13 +4,13 @@ Hi, I'm Blessly
 </h1>
 
 <p align="left">
-<strong>Software Engineer in Progress</strong> from the Philippines 🇵🇭
+<strong>Aspiring Software Engineer</strong> from the Philippines 🇵🇭
 </p>
 
 <p align="left">
-I'm an aspiring Software Engineer and incoming Computer Science student who enjoys building software, exploring modern technologies, and turning ideas into real-world applications.
+I'm an incoming Computer Science student passionate about building software, exploring modern technologies, and creating applications that solve real-world problems.
 <br><br>
-GitHub serves as my portfolio and learning journal where I document projects, experiment with technologies, and continuously improve my programming and problem-solving skills.
+GitHub serves as my portfolio and learning space where I document my projects, experiment with new technologies, and continuously improve my programming and problem-solving skills.
 </p>
 
 <h2 align="left">About Me</h2>
@@ -20,9 +20,9 @@ GitHub serves as my portfolio and learning journal where I document projects, ex
 <br>
 💻 <strong>Learning:</strong> Java, C++, JavaScript, TypeScript, React, Next.js
 <br>
-🛠️ <strong>Focus:</strong> Building scalable applications and writing clean, maintainable code
+🛠️ <strong>Focus:</strong> Building user-focused applications and improving my software engineering skills
 <br>
-🚀 <strong>Goal:</strong> Become a Software Engineer and create impactful software
+🚀 <strong>Goal:</strong> Become a skilled Software Engineer and build meaningful technology solutions
 </p>
 
 <h2 align="left">Tech Stack</h2>
@@ -52,15 +52,15 @@ GitHub serves as my portfolio and learning journal where I document projects, ex
 <h2 align="left">Current Goals</h2>
 
 <p align="left">
-• Build high-quality full-stack applications
+• Build meaningful full-stack applications
 <br>
-• Strengthen data structures and algorithms
+• Strengthen data structures and algorithms fundamentals
 <br>
 • Contribute to open-source projects
 <br>
-• Learn software engineering best practices
+• Learn software engineering principles and best practices
 <br>
-• Continuously improve as a developer
+• Continue growing as a developer through real-world projects
 </p>
 
 <h2 align="left">GitHub Stats</h2>
