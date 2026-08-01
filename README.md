@@ -1,5 +1,5 @@
 <h1 align="left">
-Hi, I'm Blessly Chris Hanz Luison 
+Hi, I'm Blessly
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
