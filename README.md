@@ -59,20 +59,39 @@ GitHub serves as my portfolio and learning journal, where I document my projects
 • Continuously improve as a developer
 </p>
 
+<h2 align="left">GitHub Contribution</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <h2 align="left">Let's Connect</h2>
 
 <div align="left">
+
   <a href="mailto:luisonblessly@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
   </a>
+
   <img width="12" />
 
   <a href="https://www.facebook.com/blisliii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook" />
   </a>
+
   <img width="12" />
 
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
+
 </div>
