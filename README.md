@@ -61,8 +61,20 @@ GitHub serves as my portfolio and learning journal, where I document my projects
 
 <h2 align="left">Let's Connect</h2>
 
-<p align="left">
-<a href="mailto:luisonblessly@gmail.com">Email</a> •
-<a href="https://github.com/amblessly">GitHub</a> •
-<a href="https://www.facebook.com/blisliii">Facebook</a>
-</p>
+<h2 align="left">Let's Connect</h2>
+
+<div align="left">
+  <a href="mailto:luisonblessly@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.facebook.com/blisliii" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  </a>
+</div>
