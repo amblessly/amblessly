@@ -1,6 +1,6 @@
 <h1 align="left">
 Hi, I'm Blessly Chris Hanz Luison 
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/Hi.gif" width="35px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <p align="left">
