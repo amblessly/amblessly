@@ -1,4 +1,6 @@
-<p align="left"></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
+</p>
 
 <h2 align="left">About Me</h2>
 
@@ -57,21 +59,6 @@ GitHub serves as my portfolio and learning journal, where I document my projects
 • Learn software engineering best practices
 <br>
 • Continuously improve as a developer
-</p>
-
-<h2 align="left">GitHub Contribution</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/amblessly/amblessly/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 <h2 align="left">Let's Connect</h2>
