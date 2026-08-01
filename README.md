@@ -4,11 +4,11 @@ Hi, I'm Blessly
 </h1>
 
 <p align="left">
-<strong>Aspiring Software Engineer</strong> from the Philippines 🇵🇭
+<strong>Computer Science Student • Aspiring Software Engineer</strong> from the Philippines 🇵🇭
 </p>
 
 <p align="left">
-I'm an incoming Computer Science student passionate about building software, exploring modern technologies, and creating applications that solve real-world problems.
+I'm a Computer Science student passionate about building software, exploring modern technologies, and creating applications that solve real-world problems.
 <br><br>
 GitHub serves as my portfolio and learning space where I document my projects, experiment with new technologies, and continuously improve my programming and problem-solving skills.
 </p>
@@ -16,9 +16,9 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <h2 align="left">About Me</h2>
 
 <p align="left">
-🎓 <strong>Education:</strong> Incoming Computer Science Freshman
+🎓 <strong>Education:</strong> Bachelor of Science in Computer Science
 <br>
-💻 <strong>Learning:</strong> Java, C++, JavaScript, TypeScript, React, Next.js
+💻 <strong>Learning:</strong> Java, C++, JavaScript, React, Next.js
 <br>
 🛠️ <strong>Focus:</strong> Building user-focused applications and improving my software engineering skills
 <br>
@@ -28,25 +28,23 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="35"/>
 </div>
 
 <h2 align="left">Current Goals</h2>
@@ -66,5 +64,5 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true&theme=dark"/>
 </p>
