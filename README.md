@@ -1,47 +1,46 @@
 <p align="left"></p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left">About Me</h2>
 
 <p align="left">
-I'm a Grade 12 ICT student currently finishing my last few months of senior high school. I'll be taking Computer Science in college because I’m serious about becoming a Software Engineer. I enjoy learning how software works behind the scenes, and I’m slowly building my skills through practice and small projects.
+I'm an aspiring <strong>Software Engineer</strong> from the Philippines and an incoming <strong>Computer Science</strong> student. I enjoy building software, exploring modern technologies, and understanding how things work behind the scenes.
 <br><br>
-I use this GitHub to document my learning journey, keep my projects organized, and track my progress as I continue improving.
+I use GitHub to document my learning journey, share personal projects, and track my progress as I continue improving my development skills.
 <br><br>
-• 🎓 <strong>Next step:</strong> Incoming CS Freshman  
-<br>
-• 💻 <strong>Current grind:</strong> Improving my coding logic, strengthening the basics, and practicing consistently  
-<br>
-• 🚀 <strong>Goal:</strong> Build high-quality software in the future and grow as a developer
-</p>
 
-###
+🎓 <strong>Education:</strong> Incoming Computer Science Freshman
+<br>
+💻 <strong>Currently Learning:</strong> Java, JavaScript, TypeScript, React, Node.js, and modern web development
+<br>
+🛠️ <strong>Focus:</strong> Building projects, improving problem-solving skills, and writing clean, maintainable code
+<br>
+🚀 <strong>Goal:</strong> Become a Software Engineer and build software that solves real-world problems
+</p>
 
 <h2 align="left">Skills</h2>
 
-###
-###
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" alt="Prisma" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
 </div>
-
-###
