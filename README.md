@@ -1,5 +1,5 @@
 <h1 align="left">
-Hi, I'm Blessly Chris Hanz Luison 
+Hi, I'm Blessly Chris Hanz Luison
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
@@ -49,30 +49,6 @@ GitHub serves as my portfolio and learning journal where I document projects, ex
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="35"/>
 </div>
 
-<h2 align="left">Featured Projects</h2>
-
-<p align="left">
-
-🚀 <strong>CodeQuest</strong><br>
-Gamified programming quiz platform designed to help developers practice coding concepts.
-
-<br>
-
-📅 <strong>Schedly</strong><br>
-AI-powered schedule assistant that converts class schedule images into an interactive planner.
-
-<br>
-
-📸 <strong>Photobooth</strong><br>
-A web-based photobooth application focused on creating a simple photo experience.
-
-<br>
-
-🌐 <strong>Portfolio</strong><br>
-Personal developer portfolio showcasing my projects and growth.
-
-</p>
-
 <h2 align="left">Current Goals</h2>
 
 <p align="left">
@@ -83,10 +59,16 @@ Personal developer portfolio showcasing my projects and growth.
 • Contribute to open-source projects
 <br>
 • Learn software engineering best practices
+<br>
+• Continuously improve as a developer
 </p>
 
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=amblessly&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true"/>
 </p>
