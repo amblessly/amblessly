@@ -1,6 +1,5 @@
 <h1 align="left">
-Hi, I'm Blessly Chris Hanz Luison
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Hi, I'm Blessly Chris Hanz Luison 👋
 </h1>
 
 <p align="left">
@@ -66,9 +65,9 @@ GitHub serves as my portfolio and learning journal where I document projects, ex
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amblessly&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amblessly&show_icons=true&hide_border=true&theme=github_dark"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true&theme=dark"/>
 </p>
