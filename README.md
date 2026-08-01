@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
-</p>
+<p align="left"></p>
 
 <h2 align="left">About Me</h2>
 
