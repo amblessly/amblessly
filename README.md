@@ -4,7 +4,7 @@ Hi, I'm Blessly
 </h1>
 
 <p align="left">
-<strong>Computer Science Student • Aspiring Software Engineer</strong> from the Philippines 🇵🇭
+<strong>Computer Science Student • Aspiring Software Engineer</strong>
 </p>
 
 <p align="left">
