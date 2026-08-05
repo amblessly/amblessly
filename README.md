@@ -18,7 +18,7 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <p align="left">
 🎓 <strong>Education:</strong> Bachelor of Science in Computer Science
 <br>
-💻 <strong>Learning:</strong> Java, C++, JavaScript, React, Next.js
+💻 <strong>Learning:</strong> C++, JavaScript
 <br>
 🛠️ <strong>Focus:</strong> Building user-focused applications and improving my software engineering skills
 <br>
