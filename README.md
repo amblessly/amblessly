@@ -4,13 +4,13 @@ Hi, I'm Blessly
 </h1>
 
 <p align="left">
-<strong>Computer Science Student • Aspiring Software Engineer</strong>
+<strong>Computer Science Student • Software Engineer in Progress</strong>
 </p>
 
 <p align="left">
-I'm a Computer Science student passionate about building software, exploring modern technologies, and creating applications that solve real-world problems.
+I'm a Computer Science student passionate about building software, exploring modern technologies, and solving real-world problems through code.
 <br><br>
-GitHub serves as my portfolio and learning space where I document my projects, experiment with new technologies, and continuously improve my programming and problem-solving skills.
+GitHub is my portfolio and learning space where I build projects, experiment with new technologies, and continuously improve my programming and software engineering skills.
 </p>
 
 <h2 align="left">About Me</h2>
@@ -18,9 +18,9 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <p align="left">
 🎓 <strong>Education:</strong> Bachelor of Science in Computer Science
 <br>
-💻 <strong>Learning:</strong> C++, JavaScript
+💻 <strong>Currently Learning:</strong> C++, JavaScript
 <br>
-🛠️ <strong>Focus:</strong> Building user-focused applications and improving my software engineering skills
+🛠️ <strong>Focus:</strong> Building user-focused applications and developing strong software engineering fundamentals
 <br>
 🚀 <strong>Goal:</strong> Become a skilled Software Engineer and build meaningful technology solutions
 </p>
@@ -50,15 +50,17 @@ GitHub serves as my portfolio and learning space where I document my projects, e
 <h2 align="left">Current Goals</h2>
 
 <p align="left">
-• Build meaningful full-stack applications
+• Build meaningful and practical full-stack applications
 <br>
-• Strengthen data structures and algorithms fundamentals
+• Strengthen my data structures and algorithms fundamentals
 <br>
 • Contribute to open-source projects
 <br>
-• Learn software engineering principles and best practices
+• Learn and apply software engineering best practices
 <br>
-• Continue growing as a developer through real-world projects
+• Explore new technologies through real-world projects
+<br>
+• Continue growing as a developer
 </p>
 
 <h2 align="left">GitHub Stats</h2>
