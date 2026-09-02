@@ -66,5 +66,5 @@ GitHub is my portfolio and learning space where I build projects, experiment wit
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amblessly&hide_border=true](https://streak-stats.demolab.com/?user=amblessly&theme=dark&hide_border=false&theme=dark"/>
 </p>
